@@ -100,16 +100,6 @@ For further informations, read the [Javadoc](http://s01.de/hgexport/socket.io-ja
  
 Both repositories are synchronized and up to date.
 
-## Building
-
-to build a jar-file:
-
-	cd $PATH_TO_SOCKETIO_JAVA
-	ant jar
-	ls jar/socketio.jar
-
-You'll find the socket.io-jar in jar/socketio.jar 
-
 ## Bugs
 
 Please report any bugs feature requests to [the Github issue tracker](https://github.com/Gottox/socket.io-java-client/issues)
